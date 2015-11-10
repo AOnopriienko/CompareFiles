@@ -1,0 +1,9 @@
+D:\Work\GitHub\CompareFiles\CompareFiles\bin\Debug\CompareFiles.exe.config
+D:\Work\GitHub\CompareFiles\CompareFiles\bin\Debug\CompareFiles.exe
+D:\Work\GitHub\CompareFiles\CompareFiles\bin\Debug\CompareFiles.pdb
+D:\Work\GitHub\CompareFiles\CompareFiles\obj\Debug\CompareFiles.csprojResolveAssemblyReference.cache
+D:\Work\GitHub\CompareFiles\CompareFiles\obj\Debug\CompareFiles.exe
+D:\Work\GitHub\CompareFiles\CompareFiles\obj\Debug\CompareFiles.pdb
+E:\Work\GitHub\Projects\CompareFiles\CompareFiles\bin\Debug\CompareFiles.exe.config
+E:\Work\GitHub\Projects\CompareFiles\CompareFiles\obj\Debug\CompareFiles.exe
+E:\Work\GitHub\Projects\CompareFiles\CompareFiles\obj\Debug\CompareFiles.pdb
